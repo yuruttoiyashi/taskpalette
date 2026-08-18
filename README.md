@@ -2,7 +2,6 @@
 
 メール・チャット・会議メモを貼り付けると、AIがタスク・担当者・期限・優先度・確認事項へ整理し、返信文まで生成する業務支援Webアプリです。
 
-![TaskPalette concept](public/taskpalette-concept-board.png)
 
 ## 技術構成
 
